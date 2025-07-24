@@ -1,13 +1,13 @@
 # 💫 Triki Osama
-<p><strong><code style="color:white;">Digital Craftsman (Frontend/Mobile/Soon-To-Be-Backend)</code></strong></p>
+<p><strong><code style="color:white;">Digital Craftsman (Frontend/Mobile/Backend)</code></strong></p>
 
 ## 🕵️‍♂️ Who am I?
 
 Hey there! I'm a passionate developer currently sharpening my frontend and mobile dev skills while slowly diving into the backend world. I’m all about building sleek, performant apps that blend great UI with practical features.
 
-👨‍💻 I’m doing my apprenticeship in Luxembourg and studying at Université de Lorraine in Metz, France. I work mainly with **Angular**, **Flutter**, and **Firebase**, with a growing love for backend tech like **Go**, **Rust**, and **Symfony**.
+👨‍💻 I’m doing my apprenticeship in Luxembourg and studying at Université de Lorraine in Metz, France. I work mainly with **Angular**, **Flutter**, **Java JEE** and **Firebase**, with a growing love for backend tech like **Java**, **Rust**, and **Go**.
 
-🔧 Currently diving into **Go** and leveling up my workflow with **Neovim** macros and motions 🧙‍♂️✨
+🔧 Currently diving into **Rust** and leveling up my workflow with **Neovim** macros and motions 🧙‍♂️✨
 
 🇮🇹 Born and raised in Italy 🇫🇷 living and studying in France — I code with coffee and dreams of building apps that blend creativity, tech with the goal of helping people.
 
@@ -50,10 +50,6 @@ Let’s build something awesome together.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -64,11 +60,11 @@ Let’s build something awesome together.
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
