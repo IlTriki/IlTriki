@@ -11,7 +11,6 @@ Hey there! I'm a passionate developer currently sharpening my frontend and mobil
 
 🇮🇹 Born and raised in Italy 🇫🇷 living and studying in France — I code with coffee and dreams of building apps that blend creativity, tech with the goal of helping people.
 
-Let’s build something awesome together.
 <!-- 
 ###
 
