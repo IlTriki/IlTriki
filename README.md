@@ -5,9 +5,11 @@
 
 Hey there! I'm a passionate developer currently sharpening my frontend and mobile dev skills while slowly diving into the backend world. I’m all about building sleek, performant apps that blend great UI with practical features.
 
-👨‍💻 I’m doing my apprenticeship in Luxembourg and studying at Université de Lorraine in Metz, France. I work mainly with **Angular**, **Flutter**, **Java JEE** and **Firebase**, with a growing love for backend tech like **Java**, **Rust**, and **Go**.
+👨‍💻 I graduated and got my bachelor degree in CS at the end of 2025 while working as part of an apprenticeship program, and have started working in Luxembourg at the same company since then as a Fullstack Engineer.
+Since my graduation I have been the main frontend developer, with some of my responsibilities being the maintenance and further development of our existing web apps and mobile applications as well as reviewing and approving the merge requests of my fellow Frontend collegues.
+I work mainly with **Angular**, **Flutter**, **Java JEE** and **Firebase**, with a growing love for backend tech like **Java** and **Go**.
 
-🔧 Currently diving into **Rust** and leveling up my workflow with **Neovim** macros and motions 🧙‍♂️✨
+🔧 Currently diving into **Go** and leveling up my workflow with **Neovim** macros and motions 🧙‍♂️✨
 
 🇮🇹 Born and raised in Italy 🇫🇷 living and studying in France — I code with coffee and dreams of building apps that blend creativity, tech with the goal of helping people.
 
@@ -49,11 +51,8 @@ Hey there! I'm a passionate developer currently sharpening my frontend and mobil
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
@@ -61,17 +60,12 @@ Hey there! I'm a passionate developer currently sharpening my frontend and mobil
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
